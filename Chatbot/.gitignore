@@ -1,0 +1,18 @@
+
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Reports (Optional, but usually we don't commit generated reports)
+*_report.md
+
+# OS specific
+.DS_Store
+Thumbs.db
